@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T17:38:07.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="j4xFa2wn5W2HYSknh1yx" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T17:45:56.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="5wbCXVbJlQj2_TTkNMF9" version="22.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="986" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -224,7 +224,7 @@
             <mxPoint x="150" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-6" value="Número de edición" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="660" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Jaal9q_AW8TaccG8SGAF-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jaal9q_AW8TaccG8SGAF-6">
