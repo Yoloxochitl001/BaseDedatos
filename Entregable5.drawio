@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T21:04:07.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="1XOTWR1Y8wMeyF5mUJH3" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T21:14:28.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="oBbHXjYajkpTK-kyb5QQ" version="22.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1356" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="870" y="440" width="270" height="424.5" as="geometry" />
         </mxCell>
         <mxCell id="123" value="" style="fillColor=#AE4132;strokeColor=none;opacity=30;" parent="1" vertex="1">
-          <mxGeometry x="747" y="175.50000000000003" width="210" height="99.99999999999994" as="geometry" />
+          <mxGeometry x="670" y="175.5" width="450" height="134.5" as="geometry" />
         </mxCell>
         <mxCell id="122" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="97" y="325.5" width="1470" height="99.99999999999994" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="10" y="445.5" width="240" height="424.5" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Sistemas gestores de bases de datos" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="720" y="185.5" width="320" height="80" as="geometry" />
+          <mxGeometry x="720" y="200" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4" value="MySQL" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1361.9999999999998" y="335.5" width="190" height="80" as="geometry" />
@@ -46,20 +46,20 @@
         <mxCell id="13" value="Oracle" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="107" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Ventajas:. Las ventajas incluyen una amplia gama de herramientas y opciones de&#xa;personalización" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=left;flipV=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
+        <mxCell id="14" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Tahoma;fontSize=14;align=left;flipV=1;horizontal=1;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="10" y="455.5" width="240" height="374.5" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Desventajas:" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="15" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="250" y="455.5" width="240" height="374.5" as="geometry" />
         </mxCell>
         <mxCell id="29" value="SSI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2343.5" y="477.75" width="270" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="33" value="XMI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="870" y="480" width="260" height="360" as="geometry" />
+        <mxCell id="33" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="870" y="455" width="260" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="44" value="SI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
-          <mxGeometry x="1230" y="480" width="230" height="350" as="geometry" />
+        <mxCell id="44" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1230" y="455.5" width="230" height="350" as="geometry" />
         </mxCell>
         <mxCell id="59" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="12" edge="1">
           <mxGeometry x="347" y="225.5" width="100" height="100" as="geometry">
@@ -77,12 +77,6 @@
           <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
             <mxPoint x="230" y="420" as="sourcePoint" />
             <mxPoint x="77" y="135.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" target="29" edge="1">
-          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
-            <mxPoint x="877" y="405.5" as="sourcePoint" />
-            <mxPoint x="652" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="102" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" edge="1">
@@ -112,8 +106,36 @@
             <mxPoint x="150" y="455.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-133" value="SI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="1460" y="480" width="230" height="350" as="geometry" />
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-133" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1460" y="455" width="230" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-136" value="&lt;h1&gt;Ventajas: las ventajas incluyen una amplia gama de herramientas y opciones de personalización.&lt;/h1&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-138" value="&lt;h1&gt;Desventajas: Incluyen un alto costo.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="520" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-139" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="610" y="455.5" width="260" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-140" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;entryX=0.373;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZeLdVaf_GN0Xj3-D7-rt-139">
+          <mxGeometry x="-23" y="135.5" width="100" height="100" as="geometry">
+            <mxPoint x="880" y="400" as="sourcePoint" />
+            <mxPoint x="1082" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-141" value="&lt;h1&gt;Ventajas: Escalabilidad, seguridad y alta disponibilidad.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="560" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-142" value="&lt;h1&gt;Desventajas:Incluyen un alto costo y una curva de aprendizaje empinada.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="537.25" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-143" value="&lt;h1&gt;Ventajas: Escalabilidad, seguridad, y al disponibilidad.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="490" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeLdVaf_GN0Xj3-D7-rt-144" value="&lt;h1&gt;Desventajas: Una menor capacidad para almacenar una gran des cantidades de datos.&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="500" width="190" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
