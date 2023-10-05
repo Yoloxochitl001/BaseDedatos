@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T18:30:15.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="hPjmf6ylh60fvvcy-cs0" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T18:40:41.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47" etag="ndmksLr_8pOk5_c4kdaO" version="22.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="598" dy="262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="986" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,9 +103,6 @@
             <mxPoint x="150" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHJGqN-GS59mJnBzp212-38" value="La sucursal publica 1 revista y la revista es publicada por 1 sucursal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="440" width="230" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aHJGqN-GS59mJnBzp212-41" value="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="315" width="30" height="30" as="geometry" />
         </mxCell>
@@ -206,68 +203,74 @@
             <mxPoint x="155" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-1" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFB570;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-1" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFB570;" parent="1" vertex="1">
           <mxGeometry x="122.5" y="560" width="55" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="Jaal9q_AW8TaccG8SGAF-1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" source="Jaal9q_AW8TaccG8SGAF-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="570" as="sourcePoint" />
             <mxPoint x="150" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-6" value="Número de edición" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-6" value="Número de edición" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C3ABD0;" parent="1" vertex="1">
           <mxGeometry x="102.5" y="660" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jaal9q_AW8TaccG8SGAF-6">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="660" as="sourcePoint" />
             <mxPoint x="150" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-8" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-8" value="Fecha" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="180" y="740" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" target="Jaal9q_AW8TaccG8SGAF-8">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" target="Jaal9q_AW8TaccG8SGAF-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="680" as="sourcePoint" />
             <mxPoint x="250" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-10" value="Cantidad vendida" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-10" value="Cantidad vendida" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="220" y="650" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.096;entryY=0.197;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" target="Jaal9q_AW8TaccG8SGAF-10">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.096;entryY=0.197;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" target="Jaal9q_AW8TaccG8SGAF-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="680" as="sourcePoint" />
             <mxPoint x="250" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-14" value="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-14" value="1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="530" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-15" value="N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-15" value="N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="620" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-16" value="Numero" style="ellipse;whiteSpace=wrap;html=1;fillColor=#15EAE3;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-16" value="Numero" style="ellipse;whiteSpace=wrap;html=1;fillColor=#15EAE3;" parent="1" vertex="1">
           <mxGeometry x="25" y="640" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-17" value="Num páginas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-17" value="Num páginas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="38" y="730" width="72" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.67;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" target="Jaal9q_AW8TaccG8SGAF-17">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.67;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Jaal9q_AW8TaccG8SGAF-6" target="Jaal9q_AW8TaccG8SGAF-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="750" as="sourcePoint" />
             <mxPoint x="50" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="Jaal9q_AW8TaccG8SGAF-6">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="Jaal9q_AW8TaccG8SGAF-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="660" as="sourcePoint" />
             <mxPoint x="120" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Jaal9q_AW8TaccG8SGAF-20" value="&#xa;&lt;ul id=&quot;yui_3_17_2_1_1696528879942_123&quot; style=&quot;padding: 0px; margin: 0px 0px 0px 25px; color: rgb(51, 51, 51); font-family: &amp;quot;Source Sans 3&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;La editorial tiene varias sucursales, con su domicilio, teléfono y un código de sucursal.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;Cada sucursal tiene varios empleados, de los cuales tendremos su nombre, apellidos, NIF y teléfono. Un empleado trabaja en una única sucursal.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;En cada sucursal se publican varias revistas, de las que almacenaremos su título, número de registro, periodicidad y tipo.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;Una revista puede ser publicada por varias sucursales.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;La editorial tiene periodistas (que no trabajan en las sucursales) que pueden escribir artículos para varias revistas. Almacenaremos los mismos datos que para los empleados, añadiendo su&lt;span&gt;&amp;nbsp;&lt;/span&gt;especialidad.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Jaal9q_AW8TaccG8SGAF-20" value="&#xa;&lt;ul id=&quot;yui_3_17_2_1_1696528879942_123&quot; style=&quot;padding: 0px; margin: 0px 0px 0px 25px; color: rgb(51, 51, 51); font-family: &amp;quot;Source Sans 3&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;La editorial tiene varias sucursales, con su domicilio, teléfono y un código de sucursal.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;Cada sucursal tiene varios empleados, de los cuales tendremos su nombre, apellidos, NIF y teléfono. Un empleado trabaja en una única sucursal.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;En cada sucursal se publican varias revistas, de las que almacenaremos su título, número de registro, periodicidad y tipo.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;Una revista puede ser publicada por varias sucursales.&lt;/p&gt;&lt;/li&gt;&lt;li dir=&quot;ltr&quot; aria-level=&quot;1&quot; style=&quot;line-height: 20px;&quot;&gt;&lt;p dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;margin: 0px 0px 10px;&quot;&gt;La editorial tiene periodistas (que no trabajan en las sucursales) que pueden escribir artículos para varias revistas. Almacenaremos los mismos datos que para los empleados, añadiendo su&lt;span&gt;&amp;nbsp;&lt;/span&gt;especialidad.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="800" width="800" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OfB-vX3DJV46WUqLUJC4-2" value="N" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="473" width="37" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OfB-vX3DJV46WUqLUJC4-3" value="M" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="477.5" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
